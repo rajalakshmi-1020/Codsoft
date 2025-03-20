@@ -57,7 +57,7 @@ while ch=='y':
     else:
         print("<====Computer won====>")
     ch=input("Do you want to continue?(y/n):")
-print("Thanks for playing")
+print("Thank you for playing")
         
 
 
