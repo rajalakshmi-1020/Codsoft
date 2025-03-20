@@ -2,7 +2,7 @@ from tkinter import*
 root=Tk()
 root.configure(bg="#636e72")
 
-label1=Label(root,text="CALCULATOR",font=("Time bold",20),bg="#636e72",fg="black")
+label1=Label(root,text="CALCULATOR",font=("Time bold",20),bg="#636e72",fg="#2d3436")
 label1.grid(row=0,columnspan=8)
 
 eq=""
